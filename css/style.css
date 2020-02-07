@@ -181,19 +181,19 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url("../img/series/series-2.jpg");
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url("../img/series/series-3.jpg");
 }
 .series-4 {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url("../img/series/series-2.jpg");
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url("../img/series/series-4.jpg");
 }
 .series-5 {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url("../img/series/series-2.jpg");
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url("../img/series/series-5.jpg");
 }
 .arrow {
     width: 32px;
